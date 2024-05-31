@@ -1,0 +1,3 @@
+[submodule "lib/matlab"]
+	path = lib/matlab
+	url = git@github.com:alecjacobson/matlab.git
